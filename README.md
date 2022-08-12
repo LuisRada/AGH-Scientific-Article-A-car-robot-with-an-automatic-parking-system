@@ -1,2 +1,2 @@
-# A-car-robot-with-an-automatic-parking-system
+# A car robot with an automatic parking system
 This project could be an example of the application perspective of the new generations of technology, since it fulfills the contemporary ideology of intelligent cars, at least enough to fulfill the main objective (without being extremely complicate or expensive), which was the possibility of creating a robotic car capable of identifying an available parking area, and apply different driving techniques to achieve ideal parking depending on the available space.
